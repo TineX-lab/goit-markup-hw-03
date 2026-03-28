@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-        color: #434455;
-        background-color: #ffffff;
+    color: #434455;
+    background-color: #ffffff;
 }
 
 ul {
@@ -157,12 +157,12 @@ address {
 .hero-button { 
     display: block;
     margin: 0 auto;
-    min-width: 169px;
-    height: 56px;
     border: none;
     background-color: #4D5AE5;
     color: #ffffff;
+    cursor: pointer;
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     border-radius: 4px;
@@ -223,12 +223,12 @@ address {
 
 .team-title {
     font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11111;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-        margin-bottom: 72px;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    margin-bottom: 72px;
 }
 
 .team-list {
@@ -338,7 +338,7 @@ address {
 
 .accent {
     font-weight: 700;
-       font-size: 18px;
+    font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
